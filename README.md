@@ -1,2 +1,2 @@
-# Pong_game
+# Pong game
 Classic Pong game using Turtle graphics
